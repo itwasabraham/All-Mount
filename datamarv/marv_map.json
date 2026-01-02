@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Yubi",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mount_yubi.json",
+      "locked": false
+    },
+    {
       "name": "MT Age",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_age.json",
       "locked": false
@@ -253,3 +258,4 @@
   ]
 
 }
+
