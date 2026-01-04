@@ -23,17 +23,17 @@
     {
       "name": "MT Aetheria C2 (Dontol)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_dontol_coil_2.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Aetheria C2 (Pro)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_pro_coil_2.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Aetheria CVIP",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_coil_vip.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Astralyn",
@@ -228,7 +228,7 @@
     {
       "name": "MT Aetheria (C3)",
       "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount%20Aetheria%20C3.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Ajadeh",
@@ -263,5 +263,6 @@
   ]
 
 }
+
 
 
