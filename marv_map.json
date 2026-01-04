@@ -133,7 +133,7 @@
     {
       "name": "MT Velora",
       "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Velora.json",
-      "locked": false
+      "locked": true
     },
     {
       "name": "MT Vexyria",
@@ -263,6 +263,7 @@
   ]
 
 }
+
 
 
 
