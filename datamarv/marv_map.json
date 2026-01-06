@@ -6,6 +6,11 @@
       "locked": false
     },
     {
+      "name": "MT Arcana",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/main/mount_arcana.json",
+      "locked": false
+    },
+    {
       "name": "MT [Test] yubi",
       "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yubitest.json",
       "locked": false
@@ -263,5 +268,6 @@
   ]
 
 }
+
 
 
