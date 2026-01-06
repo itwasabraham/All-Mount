@@ -116,11 +116,6 @@
       "locked": false
     },
     {
-      "name": "MT Sendang",
-      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_sendang.json",
-      "locked": true
-    },
-    {
       "name": "MT Serrat (Jalur 1)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_serrat_jalur_1.json",
       "locked": false
@@ -264,10 +259,81 @@
       "name": "MT Skyland",
       "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount_SkyLand.json",
       "locked": false
+    },
+    {
+      "name": "MT Arcana (Master)",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_arcana.json",
+      "locked": false
+    },
+    {
+      "name": "MT HTS",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_hts.json",
+      "locked": false
+    },
+    {
+      "name": "MT Kenangan",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_kenangan.json",
+      "locked": false
+    },
+    {
+      "name": "MT Modyar",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_modyar.json",
+      "locked": false
+    },
+    {
+      "name": "MT Modyar (WASD)",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_modyar_wasd.json",
+      "locked": false
+    },
+    {
+      "name": "MT Morohmoy",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_morohmoy.json",
+      "locked": false
+    },
+    {
+      "name": "MT Rayana",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_rayana.json",
+      "locked": false
+    },
+    {
+      "name": "MT Sendang",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_sendang.json",
+      "locked": false
+    },
+    {
+      "name": "MT Skyfall",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_skyfall.json",
+      "locked": false
+    },
+    {
+      "name": "MT Spardha",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_spardha.json",
+      "locked": false
+    },
+    {
+      "name": "MT Violet",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_violet.json",
+      "locked": false
+    },
+    {
+      "name": "MT Yahihi",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_yahihi.json",
+      "locked": false
+    },
+    {
+      "name": "MT Zodiak Jalur x10",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_zodiakx10.json",
+      "locked": false
+    },
+    {
+      "name": "MT Ajadeh",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mt_ajadeh.json",
+      "locked": false
+    },
+    {
+      "name": "MT Pagi",
+      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mt_pagi.json",
+      "locked": false
     }
   ]
-
 }
-
-
-
