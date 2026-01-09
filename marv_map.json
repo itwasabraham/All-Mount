@@ -11,6 +11,11 @@
       "locked": false
     },
     {
+      "name": "MT Sibuatan",
+      "url": "https://raw.githubusercontent.com/imamabdurrahmannn/autowiwok/refs/heads/master/Sibuatan.json",
+      "locked": false
+    },
+    {
       "name": "MT Age",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_age.json",
       "locked": false
@@ -263,6 +268,7 @@
   ]
 
 }
+
 
 
 
