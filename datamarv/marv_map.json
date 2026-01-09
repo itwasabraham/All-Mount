@@ -11,6 +11,31 @@
       "locked": false
     },
     {
+      "name": "MT Frutky",
+      "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/PrivateData/refs/heads/main/Mount_Frutky.json",
+      "locked": false
+    },
+    {
+      "name": "MT Vulkaris",
+      "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/PrivateData/refs/heads/main/Mount_Vulkaris.json",
+      "locked": false
+    },
+    {
+      "name": "MT SpaceX",
+      "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount_SpaceX.json",
+      "locked": false
+    },
+    {
+      "name": "MT Runia",
+      "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/PrivateData/refs/heads/main/Mount_Runia.json",
+      "locked": false
+    },
+    {
+      "name": "MT Morohmoy",
+      "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/PrivateData/refs/heads/main/Mount_Morohmoy.json",
+      "locked": false
+    },
+    {
       "name": "MT Age",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_age.json",
       "locked": false
@@ -332,4 +357,5 @@
     }
   ]
 }
+
 
