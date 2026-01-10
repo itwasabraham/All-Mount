@@ -1,6 +1,11 @@
 {
   "maps": [
     {
+      "name": "MT Alunna",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_alunna.json",
+      "locked": false
+    },
+    {
       "name": "MT Yubi",
       "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mount_yubi.json",
       "locked": false
@@ -372,6 +377,7 @@
     }
   ]
 }
+
 
 
 
