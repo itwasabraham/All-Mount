@@ -306,16 +306,6 @@
       "locked": false
     },
     {
-      "name": "MT Modyar",
-      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_modyar.json",
-      "locked": false
-    },
-    {
-      "name": "MT Modyar (WASD)",
-      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_modyar_wasd.json",
-      "locked": false
-    },
-    {
       "name": "MT MODYAR (WASD+SLINE)",
       "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_modyar.json",
       "locked": false
@@ -377,6 +367,7 @@
     }
   ]
 }
+
 
 
 
