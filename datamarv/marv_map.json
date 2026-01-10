@@ -196,7 +196,7 @@
       "locked": false
     },
     {
-      "name": "MT Yayakin (WASD)",
+      "name": "MT Yayakin (PRISTEL)",
       "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yayakin_wasd.json",
       "locked": false
     },
@@ -357,6 +357,7 @@
     }
   ]
 }
+
 
 
 
