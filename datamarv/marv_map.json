@@ -216,8 +216,18 @@
       "locked": false
     },
     {
+      "name": "MT Yayakin Normal",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yayakin.json",
+      "locked": false
+    },
+    {
       "name": "MT Yayakin (WASD)",
       "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/YAYAKIN_WASD.json",
+      "locked": false
+    },
+    {
+      "name": "MT Yayakin (PRISTEL)",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_yayakin_pristel.json",
       "locked": false
     },
     {
@@ -382,6 +392,7 @@
     }
   ]
 }
+
 
 
 
