@@ -316,7 +316,12 @@
       "locked": false
     },
     {
-      "name": "MT Modyad (WASD+SLINE)",
+      "name": "MT Modyar Normal",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_modyar_normal.json",
+      "locked": false
+    },
+    {
+      "name": "MT Modyar (WASD+SLINE)",
       "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_modyar.json",
       "locked": false
     },
@@ -377,6 +382,7 @@
     }
   ]
 }
+
 
 
 
