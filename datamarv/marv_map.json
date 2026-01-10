@@ -187,7 +187,7 @@
     },
     {
       "name": "MT Yahayuk R6",
-      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yahayuk_r6.json",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yahayuk_r6.json",
       "locked": false
     },
     {
@@ -196,8 +196,8 @@
       "locked": false
     },
     {
-      "name": "MT Yayakin",
-      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yayakin.json",
+      "name": "MT Yayakin (WASD)",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yayakin_wasd.json",
       "locked": false
     },
     {
@@ -357,5 +357,6 @@
     }
   ]
 }
+
 
 
