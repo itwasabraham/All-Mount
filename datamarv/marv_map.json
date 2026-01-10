@@ -21,6 +21,11 @@
       "locked": false
     },
     {
+      "name": "MT NGLUNJAK",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_nglunjak_WASD.json",
+      "locked": false
+    },
+    {
       "name": "MT SpaceX",
       "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount_SpaceX.json",
       "locked": false
@@ -191,6 +196,11 @@
       "locked": false
     },
     {
+      "name": "MT YAHAYUK (PRISTEL)",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/main/datamarv/yahayuk_pristel.json",
+      "locked": false
+    },
+    {
       "name": "MT Yakuja",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yakuja.json",
       "locked": false
@@ -306,6 +316,11 @@
       "locked": false
     },
     {
+      "name": "MT MODYAR (WASD+SLINE)",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_modyar.json",
+      "locked": false
+    },
+    {
       "name": "MT Morohmoy",
       "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_morohmoy.json",
       "locked": false
@@ -313,6 +328,11 @@
     {
       "name": "MT Rayana",
       "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_rayana.json",
+      "locked": false
+    },
+    {
+      "name": "MT RICHI",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mount_richi.json",
       "locked": false
     },
     {
@@ -357,6 +377,7 @@
     }
   ]
 }
+
 
 
 
