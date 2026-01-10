@@ -297,12 +297,12 @@
     },
     {
       "name": "MT HTS",
-      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_hts.json",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_hts.json",
       "locked": false
     },
     {
-      "name": "MT Kenangan",
-      "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_kenangan.json",
+      "name": "MT Serenity",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_serenity.json",
       "locked": false
     },
     {
@@ -367,6 +367,7 @@
     }
   ]
 }
+
 
 
 
