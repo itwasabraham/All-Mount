@@ -351,6 +351,11 @@
       "locked": false
     },
     {
+      "name": "MT Rayoma",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_rayoma.json",
+      "locked": false
+    },
+    {
       "name": "MT Sendang",
       "url": "https://raw.githubusercontent.com/itwasabraham/data-map/refs/heads/master/mount_sendang.json",
       "locked": false
@@ -412,6 +417,7 @@
     }
   ]
 }
+
 
 
 
