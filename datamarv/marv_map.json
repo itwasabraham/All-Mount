@@ -202,7 +202,7 @@
     },
     {
       "name": "MT Yahayuk R6",
-      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yahayuk_r6.json",
+      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yahayuk_r6.json",
       "locked": false
     },
     {
@@ -417,6 +417,7 @@
     }
   ]
 }
+
 
 
 
