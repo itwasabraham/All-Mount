@@ -96,6 +96,11 @@
       "locked": false
     },
     {
+      "name": "MT Nebya",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_nebya_wasdx500.json",
+      "locked": false
+    },
+    {
       "name": "MT Date",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_date.json",
       "locked": false
@@ -417,6 +422,7 @@
     }
   ]
 }
+
 
 
 
