@@ -217,17 +217,17 @@
     },
     {
       "name": "MT Yayakin Normal",
-      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/main/datamarv/yayakin_normal.json",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yayakin_normal.json",
       "locked": false
     },
     {
       "name": "MT Yayakin (WASD)",
-      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/YAYAKIN_WASD.json",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yayakin_wasd.json",
       "locked": false
     },
     {
       "name": "MT Yayakin (PRISTEL)",
-      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_yayakin_pristel.json",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yayakin_pristel.json",
       "locked": false
     },
     {
@@ -417,6 +417,7 @@
     }
   ]
 }
+
 
 
 
