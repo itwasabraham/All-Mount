@@ -217,7 +217,7 @@
     },
     {
       "name": "MT Yayakin Normal",
-      "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_yayakin.json",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/main/datamarv/yayakin_normal.json",
       "locked": false
     },
     {
@@ -392,6 +392,7 @@
     }
   ]
 }
+
 
 
 
