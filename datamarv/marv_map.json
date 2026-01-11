@@ -86,6 +86,11 @@
       "locked": false
     },
     {
+      "name": "MT Aska",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mt_aska.json",
+      "locked": false
+    },
+    {
       "name": "MT Bjirlah (Normal)",
       "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_bjirlah_normal.json",
       "locked": false
@@ -271,6 +276,11 @@
       "locked": false
     },
     {
+      "name": "MT Seru",
+      "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/mount_seru.json",
+      "locked": false
+    },
+    {
       "name": "MT Yagesya",
       "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount_Yagesya.json",
       "locked": false
@@ -422,6 +432,7 @@
     }
   ]
 }
+
 
 
 
