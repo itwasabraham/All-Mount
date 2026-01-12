@@ -1,10 +1,10 @@
 {
   "maps": [
     {"name": "MT [Test] yubi", "url": "https://raw.githubusercontent.com/itwasabraham/All-Mount/refs/heads/main/datamarv/yubitest.json", "locked": false},
-    {"name": "MT Aetheria (C3)", "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount%20Aetheria%20C3.json", "locked": false},
-    {"name": "MT Aetheria C2 (Dontol)", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_dontol_coil_2.json", "locked": false},
-    {"name": "MT Aetheria C2 (Pro)", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_pro_coil_2.json", "locked": false},
-    {"name": "MT Aetheria CVIP", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_coil_vip.json", "locked": false},
+    {"name": "MT Aetheria (C-VIP v1)", "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Mount%20Aetheria%20C3.json", "locked": false},
+    {"name": "MT Aetheria C-2 (Dontol)", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_dontol_coil_2.json", "locked": false},
+    {"name": "MT Aetheria C-2 (Pro)", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_jalur_pro_coil_2.json", "locked": false},
+    {"name": "MT Aetheria (C-VIP v2)", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_aetheria_coil_vip.json", "locked": false},
     {"name": "MT Age", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_age.json", "locked": false},
     {"name": "MT Age Sline", "url": "https://raw.githubusercontent.com/SyhrlmyZID/data-map/refs/heads/main/mount_age_sline.json", "locked": false},
     {"name": "MT Ajadeh", "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/trekv3/refs/heads/main/Gunung_Ajadeh.json", "locked": false},
