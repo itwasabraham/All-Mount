@@ -429,9 +429,14 @@
       "name": "MT NetizenV3",
       "url": "https://raw.githubusercontent.com/Bejirrr/datamap-json/main/Mount_NetizenV3.json",
       "locked": false
+    },
+    {
+      "name": "MT Runia"
+      "url": "https://raw.githubusercontent.com/ayizxmarv-rgb/PrivateData/refs/heads/main/Mount_Runia.json",
     }
   ]
 }
+
 
 
 
